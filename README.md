@@ -62,13 +62,5 @@ These segments can support targeted marketing strategies such as:
 | 3 | 57.84 | 55.74 |
 | 4 | 111.42 | 78.21 |
 
-## Visualizations
-
-### Elbow Method
-![Elbow Method](elbow_method.png)
-
-### Customer Segments
-![Customer Segments](customer_segments.png)
-
 ## Conclusion
 This project demonstrates how unsupervised machine learning can be used to uncover customer behavior patterns and generate actionable business insights. K-means clustering provided a simple but effective way to identify segments that could support more personalized and strategic marketing decisions.
